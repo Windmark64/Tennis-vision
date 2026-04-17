@@ -8,7 +8,7 @@ So I built this.
 
 Tennis Coach Pro lets you upload any training video and get an instant, detailed technical diagnostic report — the kind of feedback you'd expect from a professional coach. No subscriptions. No fluff. Just honest, precise analysis powered by Google Gemini's large vision model, evaluated against USTA NTRP/UTR standards.
 
-Built for tennis learners and enthusiasts who are serious about improving, but don't have a coach in their corner every session.
+Built for tennis learners and enthusiasts who are serious about improving, but don't have a coach in their corner every session. Have fun, and all constructive feedback is welcome. Let's improve this together!
 
 
 ## Overview
