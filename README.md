@@ -18,11 +18,11 @@ The app supports bilingual output:
 - Chinese (中文)
 
 ## Features
-- Upload `.mov` / `.mp4` training clips
-- One-click technical analysis workflow
-- Bilingual report rendering in one app session
-- Clean, minimal Streamlit UI for coaching review
-- Reset/re-run flow for iterative training feedback
+🎥 Upload .mov / .mp4 training clips directly in the browser
+📊 Deep technical breakdown — swing mechanics, footwork, stance, positioning
+🌐 Full bilingual support — English & Chinese (中文) in one session
+⚡ Powered by Google Gemini large vision model
+🆓 Free to self-host — bring your own API key
 
 ## Tech Stack
 - Python 3.10+
