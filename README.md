@@ -1,6 +1,15 @@
 # Tennis Coach Pro
 
-AI-powered tennis video analysis app built with Streamlit + Google Gemini.
+Tennis Coach Pro — AI-Powered Tennis Technique Analyzer 🎾
+
+I used to wish I had a coach who could break down exactly what I was doing wrong — my footwork, my swing path, my stance — and map out a real path to improvement. Every app I tried was either clunky to use, paywalled before you even started, or gave analysis too generic to be useful.
+
+So I built this.
+
+Tennis Coach Pro lets you upload any training video and get an instant, detailed technical diagnostic report — the kind of feedback you'd expect from a professional coach. No subscriptions. No fluff. Just honest, precise analysis powered by Google Gemini's large vision model, evaluated against USTA NTRP/UTR standards.
+
+Built for tennis learners and enthusiasts who are serious about improving, but don't have a coach in their corner every session.
+
 
 ## Overview
 `Tennis Coach Pro` analyzes uploaded training videos and returns a detailed technical report aligned to USTA NTRP/UTR-style assessment framing.  
